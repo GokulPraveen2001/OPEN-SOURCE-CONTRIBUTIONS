@@ -1,5 +1,6 @@
 # OPEN-SOURCE-CONTRIBUTIONS
 ----------------------------------
+This repository contains all of my open-source contributions to the Linux and U-BOOT community.
 
 KASLR: U-BOOT:
 --------------------
