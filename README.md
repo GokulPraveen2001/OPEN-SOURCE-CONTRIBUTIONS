@@ -12,4 +12,4 @@ https://github.com/u-boot/u-boot/commit/6b01124f7cb3746bf3a65070605d1b1116f3c71b
 
 DM timer PWM signal Capture functionality : Linux Kernel
 -----------------------------------------------
-https://git.kernel.org/pub/scm/linux/kernel/git/daniel.lezcano/linux.git/commit/?h=timers/drivers/next&id=088dfe95961a9fc022c36131c57583800e8bdef0
+https://git.kernel.org/pub/scm/linux/kernel/git/tip/tip.git/commit/?id=0494fc345b377d1207c2cbfef67dc51f6ec874c0
