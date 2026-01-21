@@ -10,8 +10,7 @@ UART Higher Baudrate functionality : U-BOOT
 -----------------------------------------------
 https://github.com/u-boot/u-boot/commit/6b01124f7cb3746bf3a65070605d1b1116f3c71b
 
-**Linux Kernel
-**
+## Linux Kernel
 
 DM timer PWM signal Capture functionality 
 -----------------------------------------------
