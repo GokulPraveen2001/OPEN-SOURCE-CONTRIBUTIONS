@@ -2,6 +2,10 @@
 
 This repository contains all of my open-source contributions to the Linux and U-BOOT community.
 
+## OSS NA SPEAKER:
+===================
+https://osselcna2026.sched.com/event/2JQrA/bootph-a-swiss-army-knife-for-boot-time-optimization-gokul-praveen-beleswar-prasad-padhi-texas-instruments
+
 ## UBOOT
 =========
 
