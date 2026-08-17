@@ -32,8 +32,9 @@ EHRPWM Low-Power mode fix
 --------------------------
 https://git.kernel.org/pub/scm/linux/kernel/git/ukleinek/linux.git/commit/?h=pwm/for-next&id=d2252319f89e475d7e127f2e0d044c3f8bd9e199
 
-## TI RTOS 
+## RTOS Constributions
 ==========
-
 https://git.ti.com/cgit/processor-sdk/pdk/log/?qt=grep&q=gokul+praveen&showmsg=1
+
+https://git.ti.com/cgit/keystone-rtos/common-csl-ip/log/?h=release&qt=grep&q=gokul+praveen
 
